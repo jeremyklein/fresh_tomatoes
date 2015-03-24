@@ -1,4 +1,7 @@
 class Movie():
+    """
+        This is the definition of the movie class
+    """
     def __init__(self,movie_title, movie_storyline, trailer_youtube, poster_image):
         """
             This is the constructor of the Movie Class 
